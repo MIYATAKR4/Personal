@@ -1,0 +1,181 @@
+<div class="btn-group" role="group" style="margin: auto;">
+          <a href="https://pastebin.com/WF1d5N1s" class="btn btn-outline-primary btn-sm"><i class="fad fa-code"></i> </a>
+        </div>
+
+
+<!-- so.. i made this code to organize some things of my story, this may not be useful to you, but here it is. You can change it as you want, just DO NOT REMOVE MY CREDITS. Thank you. -->
+
+
+
+
+<!-- background-->
+<div class="container-fluid" style="background:url(https://i.pinimg.com/564x/a6/ff/f4/a6fff4bbb15d44740564c6958a6c2072.jpg) repeat fixed;padding:10px;max-width:900px">
+
+<!-- main box-->
+<div class="col-lg-10">
+        <div class="card mx-2" style="border-top:2px solid black;border-right:5px double black;border-bottom:10px solid black;border-left:20px solid black;max-width:900px">
+          
+          <!-- title-->
+          <div class="row no-gutters">
+              <div class="col-lg-10 my-2 p-3">
+                 
+                              <div> <span class="font-italic;my-1 p-1" ><i class="fas fa-hamsa">Subject File.</i></span>
+                              </div>
+                              <h1 class="font-italic my-2 p-1" style="font-size:7px;letter-spacing:3px;font-weight:auto;">Nº74429</h1>
+                              
+                              
+                          <!-- nav buttons -->
+                             <nav>
+                                <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                  
+                                  <a class="nav-item nav-link active" id="nav-id-tab" data-toggle="tab" href="#nav-id" role="tab" >ID</a>
+                                  
+                                  
+                                  <a class="nav-item nav-link" id="nav-performance-tab" data-toggle="tab" href="#nav-performance" role="tab">E-1</a>
+                                  
+                                  <a class="nav-item nav-link" id="nav-finish-tab" data-toggle="tab" href="#nav-finish" role="tab" >E-2</a>
+                                </div>
+                            </nav>
+              </div>
+
+          
+
+          <!-- ID box: general information for the identification of the subject -->
+          <div class="tab-content" id="nav-tab">
+            
+            
+            <div class="tab-pane fade show active" id="nav-id">
+              
+                    <div class="row no-gutters">
+                      <div class="my-1 p-2" >
+                         <div  class="my-2 p-2"  style="border:3px double black">
+
+                      
+                         <div class="justify-content-between">
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:10px;letter-spacing:3px;">Subject Name</span></div>
+                          <div><span class="text-muted font-italic;fa-li" style="color:#3792af;font-size:9px;letter-spacing:2px;"><i class= "far fa-chevron-left"></i>Name<i class= "far fa-chevron-right"></i></span></div>
+                          </div>
+                          <hr style="width:95%;background-color:#474946;">
+                          
+                          <div class="justify-content-between">
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:10px;letter-spacing:3px;">Age</span></div>
+                          <div><span class="text-muted font-italic;fa-li" style="color:#3792af;font-size:9px;letter-spacing:2px;"><i class= "far fa-chevron-left"></i>Age<i class= "far fa-chevron-right"></i></span></div>
+                          </div>
+                          <hr style="width:95%;background-color:#474946;">
+                          
+                          <div class="justify-content-between">
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:10px;letter-spacing:3px;">Subject Height</span></div>
+                          <div><span class="text-muted font-italic;fa-li" style="color:#3792af;font-size:9px;letter-spacing:2px;"><i class= "far fa-chevron-left"></i>Height<i class= "far fa-chevron-right"></i></span></div>
+                          </div>
+                          <hr style="width:95%;background-color:#474946;">
+                          
+                          <div class="justify-content-between"> 
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:10px;letter-spacing:3px;">Subject Gender</span></div>
+                          <div><span class="text-muted font-italic;fa-li" style="color:#3792af;font-size:9px;letter-spacing:2px;"><i class= "far fa-chevron-left"></i>Gender<i class= "far fa-chevron-right"></i></span></div>
+                          </div>
+                          <hr style="width:95%;background-color:#474946;">
+                          
+                          <div class="justify-content-between">
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:10px;letter-spacing:3px;">Subject Species</span></div>
+                          <div><span class="text-muted font-italic;fa-li" style="color:#3792af;font-size:9px;letter-spacing:2px;"><i class= "far fa-chevron-left"></i>Species<i class= "far fa-chevron-right"></i></span></div>
+                          </div>
+                          <hr style="width:95%;background-color:#474946;">
+                          
+                           <div class="justify-content-between"> 
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:10px;letter-spacing:3px;">Subject Rote</span></div>
+                          <div><span class="text-muted font-italic;fa-li" style="color:#3792af;font-size:9px;letter-spacing:2px;"><i class= "far fa-chevron-left"></i>Rote<i class= "far fa-chevron-right"></i></span></div>
+                          </div>
+                      </div>
+                    </div>
+                      
+                      
+            <!-- images--> 
+                      <div class="my-2 p-3">
+                            <img src="https://i.pinimg.com/236x/84/84/cb/8484cb5f1395d73941e03a25e1527a08.jpg" style="filter:grayscale(100%);max-height:90px; max-width:90px; border:5px double black;" class="rounded-circle">
+                        <div class="p-0.5">
+                            <img src="https://i.pinimg.com/236x/84/84/cb/8484cb5f1395d73941e03a25e1527a08.jpg" style="filter:grayscale(100%);max-height:90px; max-width:90px; border:5px double black;" class="rounded-circle">
+                        </div>
+                      </div>
+                      
+                    <div class="p-3"> <img src="https://i.pinimg.com/236x/df/e4/93/dfe49375d474b2a565209b3629c7b6f6.jpg" style="filter:grayscale(100%); max-width:300px; max-height:400px; border:5px double black; display:inline-block"> 
+                    </div>
+          <!-- images end --> 
+
+                    </div>
+                   </div>
+                 
+                 
+                 <!-- 01 Data -->
+                  <div class="tab-pane fade" id="nav-performance">
+                    
+                        <div class="justify-content my-1 p-1;overflow;auto">
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:20px;letter-spacing:3px;">Performance 01</span></div>
+                          <hr style="dashed"> </hr>
+                          
+                          
+                          <!--- paragraphs -->
+                          <div class="font-italic;mb-4 px-1; p-2" style="font-size:15px;letter-spacing:3px;"><i class="fas fa-caret-right">E01-1.</i></span>
+                          <div class="font-italic;mb-4 px-1; my-2 p-3" style="font-size:10px;letter-spacing:2px;color:#A3CADB">
+                              <p>Sed elementum tempus egestas sed sed risus pretium quam vulputate. Magna ac placerat vestibulum lectus mauris ultrices eros in. Varius duis at consectetur lorem donec massa sapien. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Mattis aliquam faucibus purus in. Lacinia quis vel eros donec ac odio tempor. Lorem ipsum dolor sit amet. Purus semper eget duis at tellus at. Pulvinar elementum integer enim neque volutpat ac tincidunt. Feugiat vivamus at augue eget arcu dictum varius. Malesuada pellentesque elit eget gravida cum sociis. Natoque penatibus et magnis dis parturient montes nascetur. Leo in vitae turpis massa sed. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Mi sit amet mauris commodo quis.</p>
+                          
+                          </div>
+                          </div>
+                              <div class="font-italic;mb-4 px-1; p-2" style="font-size:15px;letter-spacing:3px;"><i class="fas fa-caret-right">E02-1.</i></span>
+                          <div class="font-italic;mb-4 px-1; my-2 p-3" style="font-size:10px;letter-spacing:2px;color:#A3CADB">
+                              <p>Sed elementum tempus egestas sed sed risus pretium quam vulputate. Magna ac placerat vestibulum lectus mauris ultrices eros in. Varius duis at consectetur lorem donec massa sapien. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Mattis aliquam faucibus purus in. Lacinia quis vel eros donec ac odio tempor. Lorem ipsum dolor sit amet. Purus semper eget duis at tellus at. Pulvinar elementum integer enim neque volutpat ac tincidunt. Feugiat vivamus at augue eget arcu dictum varius. Malesuada pellentesque elit eget gravida cum sociis. Natoque penatibus et magnis dis parturient montes nascetur. Leo in vitae turpis massa sed. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Mi sit amet mauris commodo quis.</p>
+                              
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      
+                    
+                    <!-- 02 Data -->
+                  <div class="tab-pane fade" id="nav-finish">
+                    
+                        <div class="justify-content my-1 p-1;overflow;auto">
+                          <div><span class="font-italic;my-1 p-1" style="color:#3792af;font-size:20px;letter-spacing:3px;">Performance 02</span></div>
+                          <hr style="dashed"> </hr>
+                          
+                          
+                          <!--- paragraph1 -->
+                          <div class="font-italic;mb-4 px-1; p-2" style="font-size:15px;letter-spacing:3px;"><i class="fas fa-caret-right">E01-2.</i></span>
+                          <div class="font-italic;mb-4 px-1; my-2 p-3" style="font-size:10px;letter-spacing:2px;color:#A3CADB">
+                              <p>Sed elementum tempus egestas sed sed risus pretium quam vulputate. Magna ac placerat vestibulum lectus mauris ultrices eros in. Varius duis at consectetur lorem donec massa sapien. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Mattis aliquam faucibus purus in. Lacinia quis vel eros donec ac odio tempor. Lorem ipsum dolor sit amet. Purus semper eget duis at tellus at. Pulvinar elementum integer enim neque volutpat ac tincidunt. Feugiat vivamus at augue eget arcu dictum varius. Malesuada pellentesque elit eget gravida cum sociis. Natoque penatibus et magnis dis parturient montes nascetur. Leo in vitae turpis massa sed. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Mi sit amet mauris commodo quis.</p>
+                          
+                          </div>
+                          </div>
+                          
+                          <!--- paragraph2 -->
+                              <div class="font-italic;mb-4 px-1; p-2" style="font-size:15px;letter-spacing:3px;"><i class="fas fa-caret-right">E02-2.</i></span>
+                          <div class="font-italic;mb-4 px-1; my-2 p-3" style="font-size:10px;letter-spacing:2px;color:#A3CADB">
+                              <p>Sed elementum tempus egestas sed sed risus pretium quam vulputate. Magna ac placerat vestibulum lectus mauris ultrices eros in. Varius duis at consectetur lorem donec massa sapien. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Mattis aliquam faucibus purus in. Lacinia quis vel eros donec ac odio tempor. Lorem ipsum dolor sit amet. Purus semper eget duis at tellus at. Pulvinar elementum integer enim neque volutpat ac tincidunt. Feugiat vivamus at augue eget arcu dictum varius. Malesuada pellentesque elit eget gravida cum sociis. Natoque penatibus et magnis dis parturient montes nascetur. Leo in vitae turpis massa sed. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Mi sit amet mauris commodo quis.</p>
+                              
+                              </div>
+                          </div>
+                              
+                              
+                            <!--- paragraph3 -->
+                         <div class="font-italic;mb-4 px-1; p-2" style="font-size:15px;letter-spacing:3px;"><i class="fas fa-caret-right">E03-2.</i></span>
+                          <div class="font-italic;mb-4 px-1; my-2 p-3" style="font-size:10px;letter-spacing:2px;color:#A3CADB">
+                              <p>Sed elementum tempus egestas sed sed risus pretium quam vulputate. Magna ac placerat vestibulum lectus mauris ultrices eros in. Varius duis at consectetur lorem donec massa sapien. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Mattis aliquam faucibus purus in. Lacinia quis vel eros donec ac odio tempor. Lorem ipsum dolor sit amet. Purus semper eget duis at tellus at. Pulvinar elementum integer enim neque volutpat ac tincidunt. Feugiat vivamus at augue eget arcu dictum varius. Malesuada pellentesque elit eget gravida cum sociis. Natoque penatibus et magnis dis parturient montes nascetur. Leo in vitae turpis massa sed. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Mi sit amet mauris commodo quis.</p>
+                          
+                          </div>
+                          </div>
+                              
+                            
+                        </div>
+                      </div> 
+                 
+
+               
+              </div>
+             </div> 
+            </div>
+          </div>
+              <!-- DO NOT REMOVE-->
+                <div class="text-left small">
+                  <a href="https://toyhou.se/miyatakra" class="text-info" data-toggle="tooltip" data-placement="left" title="code by miyatakra"><i class="fal fa-code" ></i></a>
+                  </div>
+               
+      </div>
