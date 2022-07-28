@@ -1,0 +1,33 @@
+<div class="btn-group" role="group" style="margin: auto;" align="MIDDLE">
+          <a href="https://pastebin.com/DcZbVUWP" class="btn btn-outline-primary btn-sm"><i class="fad fa-code"></i> </a>
+        </div>
+
+
+<!-- Background image -->
+<div class="row no-gutters justify-content-between mx-auto p-3" style="max-width:500px;background: #FFFFFF url(https://i.pinimg.com/564x/58/7f/00/587f0014d58d11b520c3452718f0bb42.jpg) fixed center;">
+
+<!-- Main box -->
+    <div class="row no-gutters">
+            <div class="row no-gutters" align="center">
+              <div class="card p-4" style="background:#AED3BC;border: solid">
+                <h3 class="font-weight-light my-1 p-2" style="color:#FFFFFF;font-size:20px;letter-spacing:3px;font-weight:auto;" align="center">Story title.</h3>
+                  <hr style="width:95%;background-color:#FFFFFF;">
+                  </hr>
+                  
+              <!-- Header Image -->
+              <div style="background:url('https://i.pinimg.com/originals/e4/d8/eb/e4d8eb9d1d0f659581709cc8a369bc70.gif') center; background-size:cover; border:0px; height:75px;"></div>
+       
+                <h1 class="font-italic my-2 p-0" style="color:#FFFFFF;font-size:10px;letter-spacing:3px;font-weight:auto;" align="center">Subtitle.</h1>
+                
+                <div class="card p-4" style="background:#D5ECDE;border: solid 1px #C3E4CE;" align="center">
+                    <p class="text-center font-family:Monospace" style="color:#A4C8B2;font-size:15px;height:auto;overflow:auto;">Describe your story here, write a short description with the main details and allusions that refer to your story. It can be since a simple narration to a refined sinopsis.</p>
+                </div>
+             </div>
+        </div>
+    </div>
+
+
+<!-- DO NOT REMOVE-->
+<div class="text-left small">
+  <a href="https://toyhou.se/miyatakra" class="text-info" data-toggle="tooltip" data-placement="left" title="code by miyatakra"><i class="fal fa-code" style="color:#6A6A6A;"></i></a>
+  </div>
