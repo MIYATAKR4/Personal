@@ -1,3 +1,4 @@
+<HTML>
 <div class="btn-group" role="group" style="margin: auto;" align="MIDDLE">
           <a href="https://pastebin.com/DcZbVUWP" class="btn btn-outline-primary btn-sm"><i class="fad fa-code"></i> </a>
         </div>
@@ -31,3 +32,5 @@
 <div class="text-left small">
   <a href="https://toyhou.se/miyatakra" class="text-info" data-toggle="tooltip" data-placement="left" title="code by miyatakra"><i class="fal fa-code" style="color:#6A6A6A;"></i></a>
   </div>
+  
+  </HTML>
